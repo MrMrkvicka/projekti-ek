@@ -1,0 +1,18 @@
+{
+    "gif_path": "furina_idle.gif",
+    "grok_url": "https://grok.com/",
+    "youtube_url": "https://youtube.com",
+    "games": {
+        "wgc": {
+            "path": "D:\\wargaming\\Wargaming.net\\GameCenter\\wgc.exe",
+            "image": ""
+        }
+    },
+    "search_paths": [],
+    "soundboard": {
+        "Love_Me_Not": "C:\\Users\\matej\\UVL\\uvl_songs_raw\\Love_Me_Not.mp3"
+    },
+    "launcher_sidebar_width": 195,
+    "launcher_soundboard_height": 160,
+    "launcher_window_geometry": "600x560+250+150"
+}
